@@ -9,6 +9,7 @@ Pandas - (To Clean and maipulate the data)
 Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
 Streamlit - (To Create Graphical user Interface)
 Workflow :
+
 Step 1 :
 Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset.
 
